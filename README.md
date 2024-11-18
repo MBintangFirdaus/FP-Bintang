@@ -1,3 +1,3 @@
 # final project
 
-link website EventCertify: https://eventcertify.my.id/
+link website Final Project kami EventCertify: https://eventcertify.my.id/
